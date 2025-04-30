@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:3000/api/',
+  baseURL: 'https://jobseeker-company-4586a3f22963.herokuapp.com/api/',
   headers: {
     'Content-Type': 'application/json',
   },
