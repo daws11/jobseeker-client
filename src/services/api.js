@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = '/api';
+const API_URL = 'https://jobseeker-company-4586a3f22963.herokuapp.com/api';
 
 const api = axios.create({
   baseURL: API_URL,
