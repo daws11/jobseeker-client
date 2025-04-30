@@ -12,7 +12,7 @@ This is the frontend application for the Jobseeker system, built with React, Tai
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/daws11/jobseeker-client.git
 cd jobseeker-client
 ```
 
